@@ -14,5 +14,5 @@ Funcionalidad básica de juego implementada.
 Cálculo de impuestos y registro de estadísticas.
 
 # Licencia
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
