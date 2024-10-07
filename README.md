@@ -1,5 +1,5 @@
 # wheel-of-fortune
-Jeremy &amp; Rodolfo
+Jeremy 
 # Casino Simulation
 # Descripción
 Este programa simula una experiencia en un casino donde el usuario puede jugar en la "rueda de la suerte". El jugador decide cuánto dinero apostar y el programa calcula las ganancias o pérdidas basadas en resultados aleatorios de la rueda.
