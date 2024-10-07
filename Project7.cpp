@@ -7,7 +7,7 @@
 using namespace std;
 
 const double tax = 0.25; // constante hecha para el impuesto del casino
-//Jeremy Santos Garcia
+//JeremyASG
 // primera funcion narrativa
 void narrativa() {
     cout << "Nuestro protagonista camina tranquilamente y se aproxima al casino." << endl;
@@ -61,7 +61,7 @@ int main() {
     narrativa();
     cin >> respuesta;
     cout << "---------------------------------------------------------------------------------------------" << endl;
-    //Rodolfo Pereira
+    //RodolfoPV 
     if (respuesta == "si" || respuesta == "Si") {
         cout << "El protagonista decide probar suerte. Introduce su dinero en la rueda de la suerte." << endl;
         cout << "¿Cuantos creditos desea ingresar para jugar? (Tiene que ser un numero entre 1 al 350):" << endl;
